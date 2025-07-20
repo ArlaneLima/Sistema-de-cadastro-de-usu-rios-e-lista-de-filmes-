@@ -1,4 +1,4 @@
-# Sistema-de-cadastro-de-usuarios-e-lista-de-filmes-
+# Sistema-de-cadastro-de-usuarios-e-lista-de-filmes
 mini sistema de cadastro e busca de itens
 
 
