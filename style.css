@@ -1,0 +1,96 @@
+/*estilização do corpo da página*/
+body {
+  font-family: Poppins, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/*título principal*/
+h1 {
+  background-color: #1424d7d2;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin: 0;
+}
+
+/*subtítulos*/
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+
+/*menu de navegação*/
+#menu {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+/*butões pricipais*/
+button {
+  background-color: #09127ad2;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+/*efeito hover dos botões*/
+button:hover {
+  background-color: rgb(84, 87, 226);
+}
+
+/*classe para esconder elementos*/
+.hidden {
+  display: none;
+}
+
+/* seção de estilo de cadastro e lista de filmes*/
+#cadastro,
+#filmes {
+  background-color: #2d16c8;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/*campo de formulário*/
+input, select {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #2d16c8;
+  border-radius: 5px;
+}
+
+/*lista de filmes*/
+ul {
+  list-style: none;
+  padding-left: 0;
+  color: black;
+}
+
+/*itens da lista*/
+ul li {
+  margin-bottom: 10px;
+}
+
+/*botão de exclusão*/
+ul li button {
+  margin-left: 10px;
+  background-color: red;    
+  padding: 3px 15px;
+  font-size: 15px;
+
+}
+
