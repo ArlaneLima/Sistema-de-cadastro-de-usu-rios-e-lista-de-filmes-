@@ -4,7 +4,7 @@ mini sistema de cadastro e busca de itens
 
 DESCRIÇÃO
 
-Este projeto é um sistema simples para gerenciamento de usuários e uma lista de filmes. Permite o cadastro de usuários e o cadastro de filmes, fazendo com que esses ususários cadastrados possam listar seus filmes favoritos, não só listar mas também buscar e remover os filmes.
+Este projeto é um sistema simples para gerenciamento de usuários e uma lista de filmes. Permite que o usuário faça o seu cadastro e o cadastro de filmes, fazendo com que esses usuários cadastrados possam listar seus filmes favoritos, não só listar mas também buscar e remover os filmes.
 
 
 FUNCIONALIDADES
